@@ -1,0 +1,30 @@
+name = '2p4b'
+license = 'MIT'
+licenselink = 'https://github.com/2p4b/2p4b/LICENSE'
+description = '2p4b description'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/2p4b/2p4b'
+
+# If you have a running demo of the theme
+site = 'https://2p4b.github.io'
+
+# Taxonomy terms
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+# If the theme has multiple authors
+authors = [
+  {name = '2p4b', homepage = 'https://2p4b.github.io'},
+]
+
+# If the theme has a single author
+[author]
+  name = '2p4b'
+  homepage = 'https://2p4b.github.io'
+
+# If porting an existing theme
+[original]
+  author = '2p4b'
+  homepage = 'https://2p4b.github.io'
+  repo = 'https://github.com/2p4b/2p4b'
