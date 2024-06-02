@@ -1,5 +1,5 @@
 +++
-title = 'Data Oritented Design'
+title = 'Data-Oriented Design'
 date = 2015-07-17T09:00:00-07:00
 draft = false
 tags = ['data', 'DoD', 'youtube']
