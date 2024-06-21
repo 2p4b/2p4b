@@ -8,11 +8,13 @@ draft = false
 
 Need some light? here you go 💡
 
-I'm **2p4b**, and I like reducing data, My first paid work experience was setting up a wireless hotspot access point with Mikrotik RouterOS for a WISP Provider in 2013 thats over a decade now. 
+I'm 2p4b. My journey in technology began over a decade ago when I called up to set up a wireless hotspot access point using Mikrotik RouterOS for a WISP Provider in 2013. 
+Today, I leverage a broad toolkit including C, C++, Elixir, SQL, Python, JavaScript, and TypeScript to craft scalable and efficient software solutions.
 
-My tools of choice are C, C++, Elixir, SQL, Python, Go, JavaScript, and TypeScript, including React and related libraries. 
+I am passionate about discovering patterns in large datasets and have a keen interest in event-driven systems. 
 
-I like creating and playing with large datasets with a recent fascination for event-driven systems and I excel in creating scalable, efficient solutions.
+My philosophy is simple: every computer science problem at its core is a data problem.
+
 
 ### Core Competencies
 - **Backend Mastery:** Use of Elixir for building concurrent, fault-tolerant systems.
@@ -23,23 +25,22 @@ I like creating and playing with large datasets with a recent fascination for ev
 - **Frontend Development:** Mastered JavaScript and TypeScript, specializing in React and related libraries for UI development.
 - **Network Administration:** Use of linux to build and manage routes, tunnels, VPN (wiregaurd best), vlans, and openvswitch
 - **Linux Container:** Regular use of namespaces and cgroup to isolate processes and resources, and for container orchestration.
-- **Tech Security:** Please understand this, 100% Tech Security Coverage today is a difficult feat to archive, as there are always edge cases left hanging and its only a matter of time until its found. Don't believe me? Reach out to me lets test(fuzz) your system and see if it holds up! before someone else does.
+- **Tech Security:** Please understand this, 100% Tech Security Coverage today is a difficult feat to archive, as there are always edge cases left hanging and its only a matter of time before its found. Don't believe me? Reach out to me lets test(fuzz) your system and see if it holds up! before someone else does.
 
 
 ### My Current Projects
 1. [Signal](https://github.com/2p4b/signal): Elixir CQRS library.
 2. [Blueprint](https://github.com/2p4b/blueprint): Elixir schema and validation library.
-3. [Kanban Project Management](https://github.com/2p4b/octal-clients): Chat and Kanban Project Management webapp(frontend webapp only) ReactJS, Redux, Redux
+3. [Kanban Project Management](https://github.com/2p4b/octal-clients): Chat and Kanban Project Management webapp(frontend webapp only) ReactJS, Redux, Redux-Saga
 
 ### Older Projects
-- [Backprop](https://github.com/2p4b/backprop): A curious implementation of an MLP in Jupyter Notebook.
-- [Asyncpaths](https://github.com/2p4b/AsyncPaths): PhaserJS pathfinding plugin.
+- [Multilayer perceptron](https://github.com/2p4b/backprop): A curious fun implementation of an MLP in Jupyter Notebook.
+- [Asyncpaths](https://github.com/2p4b/AsyncPaths)(outdated): PhaserJS pathfinding plugin.
 - [etc...](https://github.com/2p4b?tab=repositories)
 
 
-### Private Projects
+### Other Works
 Go through my github [repositories](@https://github.com/2p4b).
-
 
 ### Notable Achievements
 - I'm still Alive
