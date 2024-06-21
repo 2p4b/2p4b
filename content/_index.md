@@ -52,7 +52,7 @@ Go through my github [repositories](@https://github.com/2p4b).
 - Snooping on my network traffic with scapy, looking to see who is talking to whom and whats being sents
 - Playing with SDR, and always trying to listern in 😉
 
-Do you find any of these fun too and want chat about your curious journey? [👉 2p4b@proton.me](@mailto:2p4b@proton.me). 
+Do you find any of these fun too and want chat about your curious journey? [👉 2p4b@proton.me](mailto:2p4b@proton.me). 
 
 ### Let's Connect
 Explore my repositories on [GitHub](https://github.com/2p4b) to see my works. I’m always open to collaboration and feedback. Feel free to reach out for potential collaborations or discussions on data related topics, code questions or just to say hello.
